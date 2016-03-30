@@ -1,0 +1,29 @@
+[
+	{"desktops":[
+		{"title":"image1","src":"js/model/images/art.jpg","created":1,"class":"fatter"},
+		{"title":"image2","src":"js/model/images/bears.jpg","created":2,"class":"fatter"},
+		{"title":"image3","src":"js/model/images/cat.jpg","created":3,"class":"fatter"},
+		{"title":"image4","src":"js/model/images/birds.jpg","created":10,"class":"fatter"},
+		{"title":"image5","src":"js/model/images/lake.jpg","created":11,"class":"fatter"},
+		{"title":"image5","src":"js/model/images/girl.jpg","created":16,"class":"taller"}
+		
+		
+	]},
+	{"mobiles":[
+		{"title":"image1","src":"js/model/images/eiffel.jpg","created":4,"class":"taller"},
+		{"title":"image2","src":"js/model/images/anchor.jpg","created":5,"class":"fatter"},
+		{"title":"image3","src":"js/model/images/imgres.jpg","created":6,"class":"fatter"},
+		{"title":"image4","src":"js/model/images/space.jpg","created":12,"class":"taller"},
+		{"title":"image5","src":"js/model/images/rocks.jpg","created":13,"class":"fatter"}
+		
+	]},
+	{"tablets":[
+		{"title":"image1","src":"js/model/images/skull.jpg","created":7,"class":"fatter"},
+		{"title":"image2","src":"js/model/images/fart.jpg","created":8,"class":"fatter"},
+		{"title":"image3","src":"js/model/images/images.jpg","created":9,"class":"fatter"},
+		{"title":"image5","src":"js/model/images/star.jpg","created":14,"class":"fatter"},
+		{"title":"image5","src":"js/model/images/model.jpg","created":15,"class":"taller"}
+		
+
+	]}
+]

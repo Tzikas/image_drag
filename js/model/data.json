@@ -1,0 +1,42 @@
+[
+{
+	"name"  : "Step 1",
+	"id"    : "step-1",
+	"src"   : "step-0.html",
+	"state" : "active"
+},
+
+{
+	"name"  : "Step 2",
+	"id"    : "step-2",
+	"src"   : "step-2.html",
+	"state" : "unavailable"
+},
+
+{
+	"name"  : "Step 3",
+	"id"      : "step-3",
+	"src"   : "step-3.html",
+	"state" : "unavailable"
+},
+{
+	"name"  : "Step 4",
+	"id"    : "step-1",
+	"src"   : "step-4.html",
+	"state" : "active"
+},
+
+{
+	"name"  : "Step 5",
+	"id"    : "step-2",
+	"src"   : "step-2.html",
+	"state" : "unavailable"
+},
+
+{
+	"name"  : "Step 6",
+	"id"      : "step-3",
+	"src"   : "step-3.html",
+	"state" : "unavailable"
+}
+]

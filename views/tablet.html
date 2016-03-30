@@ -1,0 +1,12 @@
+<div class="container">
+	<div class="spinner" ng-show="loading"><img src="css/ring-alt.gif"></img><br>LOADING...</div>
+	<h4>These images are on your tablet</h4>
+	<li class="images" data-ng-repeat="tablet in tablets track by $index">
+	<!--<h5 class="">{{ tablet.title }}</h5>--> 
+
+		<span ng-class="fat_or_tall(this)"><figure><img  onerror='this.parentNode.style.display = "none";console.log("if image isnt found, the parentNode is hidden")'
+			ng-style="set_ratio(this)" draggable="true" class="thumb" id="{{tablet.created}}" title="{{ tablet.title }}" data-ng-src="{{ tablet.src }}" /></figure></span>
+	</li>
+</div>
+
+
